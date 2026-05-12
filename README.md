@@ -49,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
