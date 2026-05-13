@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -14,15 +15,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -89,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
