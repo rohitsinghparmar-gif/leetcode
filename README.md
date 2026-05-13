@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0371-sum-of-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
