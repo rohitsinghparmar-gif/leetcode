@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
