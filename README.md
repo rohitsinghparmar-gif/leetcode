@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Binary Search
 |  |
