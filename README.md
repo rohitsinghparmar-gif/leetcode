@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1323-maximum-69-number) |
+| [1492-the-kth-factor-of-n](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2544-alternating-digit-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
