@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0912-sort-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
 |  |
 | ------- |
