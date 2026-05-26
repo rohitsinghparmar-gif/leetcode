@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2942-find-words-containing-character) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0912-sort-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Quickselect
 |  |
