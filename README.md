@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2942-find-words-containing-character) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2540-minimum-common-value) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
