@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
