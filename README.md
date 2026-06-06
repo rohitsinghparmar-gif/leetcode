@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2942-find-words-containing-character) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3798-largest-even-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3798-largest-even-number) |
 ## Design
 |  |
 | ------- |
