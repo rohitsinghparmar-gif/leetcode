@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
