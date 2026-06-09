@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0567-permutation-in-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2540-minimum-common-value) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0567-permutation-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2942-find-words-containing-character) |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
