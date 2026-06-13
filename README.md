@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0441-arranging-coins](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1323-maximum-69-number) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0441-arranging-coins](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0441-arranging-coins) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
