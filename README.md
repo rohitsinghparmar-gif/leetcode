@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3697-compute-decimal-representation) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3668-restore-finishing-order) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
