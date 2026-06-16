@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Number Theory
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0877-stone-game) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Game Theory
 |  |
 | ------- |
