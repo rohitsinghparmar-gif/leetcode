@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0933-number-of-recent-calls](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
@@ -314,4 +315,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
