@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3697-compute-decimal-representation](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3908-valid-digit-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3908-valid-digit-number) |
 ## Number Theory
 |  |
 | ------- |
