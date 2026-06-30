@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3866-first-unique-even-element](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3866-first-unique-even-element) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Enumeration
 |  |
 | ------- |
