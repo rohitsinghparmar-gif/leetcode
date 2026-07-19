@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1816-truncate-sentence) |
