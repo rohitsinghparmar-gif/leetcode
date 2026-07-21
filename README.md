@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0283-move-zeroes) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0877-stone-game) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
@@ -381,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
