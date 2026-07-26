@@ -17,15 +17,15 @@ return sum;
         }
         int start=end/10;
         int ans=-1;
-        for(int i=start;i<end;i++){
+        for(int i=end-1;i>=start;i--){
               if(digitsum(i)==s){
-             ans=i;
+             return i;
               }
         }
         if(s==0){
             return 0;
         }
-    return ans;
+    return -1;
         
     }
 };
