@@ -1,31 +1,28 @@
 class Solution {
 public:
-int digitsum( int n){
-    int sum=0;
-while(n>0){
-    sum=sum+n%10;
-    n/=10;
-}
-return sum;
-}
     int largestInteger(int n, int s) {
-        int end=1;
-        int k=n;
-        while(k>0){
-            end=end*10;
-            k--;
+        if(n*9<s)return -1;
+        int ans=0;
+        int size=0;
+        while(size!=n){
+            if(s==0){
+            ans*=10;
+            size++;
+            continue;
+            }
+            if(s>9){
+                ans=ans*10+9;
+                s-=9;
+                size++;
+            }
+            else{
+                ans =ans*10+s;
+                s=0;
+                size++;
+            }
         }
-        int start=end/10;
-        int ans=-1;
-        for(int i=end-1;i>=start;i--){
-              if(digitsum(i)==s){
-             return i;
-              }
-        }
-        if(s==0){
-            return 0;
-        }
-    return -1;
+        return ans;
+
         
     }
 };
