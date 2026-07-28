@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3697-compute-decimal-representation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3866-first-unique-even-element](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3866-first-unique-even-element) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3908-valid-digit-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3908-valid-digit-number) |
 ## Number Theory
