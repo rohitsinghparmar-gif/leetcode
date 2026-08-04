@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0260-single-number-iii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0567-permutation-in-string) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
