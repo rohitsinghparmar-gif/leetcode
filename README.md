@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3697-compute-decimal-representation) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
