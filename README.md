@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1021-remove-outermost-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3174-clear-digits) |
@@ -465,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
