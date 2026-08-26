@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0137-single-number-ii) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0078-subsets) |
 ## Recursion
 |  |
 | ------- |
