@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2540-minimum-common-value) |
+| [2716-minimize-string-length](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2716-minimize-string-length) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2716-minimize-string-length](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2810-faulty-keyboard) |
 | [2864-maximum-odd-binary-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2942-find-words-containing-character) |
