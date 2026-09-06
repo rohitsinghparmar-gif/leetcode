@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1528-shuffle-string) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3174-clear-digits) |
