@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2278-percentage-of-letter-in-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2678-number-of-senior-citizens) |
