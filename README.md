@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3828-final-element-after-subarray-deletions](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3866-first-unique-even-element](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
