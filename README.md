@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
