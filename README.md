@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4020-elevator-requests-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/4020-elevator-requests-i) |
 ## Divide and Conquer
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3908-valid-digit-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3908-valid-digit-number) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Number Theory
 |  |
 | ------- |
