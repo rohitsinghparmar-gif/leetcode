@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3612-process-string-with-special-operations-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3612-process-string-with-special-operations-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3174-clear-digits) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Sliding Window
 |  |
