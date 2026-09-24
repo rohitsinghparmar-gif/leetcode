@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1833-maximum-ice-cream-bars](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2540-minimum-common-value) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
