@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0461-hamming-distance](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0461-hamming-distance) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
