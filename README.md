@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0217-contains-duplicate) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
