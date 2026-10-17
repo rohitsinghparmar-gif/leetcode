@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1122-relative-sort-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
