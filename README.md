@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1122-relative-sort-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1833-maximum-ice-cream-bars](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
