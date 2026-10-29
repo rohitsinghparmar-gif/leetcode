@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3019-number-of-changing-keys](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3340-check-balanced-string) |
