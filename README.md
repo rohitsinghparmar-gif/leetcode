@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2540-minimum-common-value) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
