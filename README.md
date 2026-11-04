@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0409-longest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0567-permutation-in-string) |
+| [0657-robot-return-to-origin](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0917-reverse-only-letters) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2109-adding-spaces-to-a-string) |
