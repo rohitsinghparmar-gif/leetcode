@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2716-minimize-string-length) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0461-hamming-distance) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
