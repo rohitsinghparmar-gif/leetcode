@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1122-relative-sort-array) |
+| [1267-count-servers-that-communicate](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1267-count-servers-that-communicate](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -630,11 +633,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -677,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
