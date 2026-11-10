@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2595-number-of-even-and-odd-bits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
