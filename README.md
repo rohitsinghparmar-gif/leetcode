@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2278-percentage-of-letter-in-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2278-percentage-of-letter-in-string) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Stack
