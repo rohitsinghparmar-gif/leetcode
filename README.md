@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1833-maximum-ice-cream-bars](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
