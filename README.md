@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2716-minimize-string-length) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2716-minimize-string-length) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3174-clear-digits) |
