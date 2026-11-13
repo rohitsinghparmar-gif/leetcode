@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3908-valid-digit-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3908-valid-digit-number) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Number Theory
 |  |
 | ------- |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3798-largest-even-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3798-largest-even-number) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Design
 |  |
 | ------- |
