@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3248-snake-in-matrix](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3174-clear-digits) |
+| [3248-snake-in-matrix](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3248-snake-in-matrix) |
 | [3340-check-balanced-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3174-clear-digits) |
+| [3248-snake-in-matrix](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
