@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1122-relative-sort-array) |
 | [1267-count-servers-that-communicate](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1122-relative-sort-array) |
 ## Binary Indexed Tree
 |  |
