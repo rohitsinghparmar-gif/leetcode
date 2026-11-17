@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0189-rotate-array) |
+| [0319-bulb-switcher](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0319-bulb-switcher) |
 | [1227-airplane-seat-assignment-probability](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [3828-final-element-after-subarray-deletions](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Probability and Statistics
