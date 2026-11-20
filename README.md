@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1528-shuffle-string) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1323-maximum-69-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -607,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3828-final-element-after-subarray-deletions](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Graph Theory
 |  |
