@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3227-vowels-game-in-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3174-clear-digits) |
+| [3227-vowels-game-in-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3248-snake-in-matrix](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3248-snake-in-matrix) |
 | [3340-check-balanced-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3227-vowels-game-in-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Graph Theory
 |  |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0319-bulb-switcher](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/0319-bulb-switcher) |
 | [1227-airplane-seat-assignment-probability](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+| [3227-vowels-game-in-a-string](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/rohitsinghparmar-gif/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Probability and Statistics
 |  |
